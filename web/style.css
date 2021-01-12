@@ -1,0 +1,29 @@
+main{
+
+}
+#left-main{
+    width:30%;
+    text-align: center;
+    height: 100%;
+    flex-direction: column;
+    float:left;
+    margin: 20px 0px 0px 0px;
+}
+#right-main{
+    width:70%;
+    height:100%;
+    text-align: center;
+    flex-direction: column;
+    float:left;
+}
+
+#right-main figcaption{
+    color: red;
+}
+
+#right-right, #right-center, #right-left{
+    width:30%;
+    float:left;
+}
+
+
