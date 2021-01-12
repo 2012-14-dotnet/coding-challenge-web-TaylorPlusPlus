@@ -1,11 +1,13 @@
 main{
-  
+  display:flex;
+
 }
 #left-main{
     width:30%;
     text-align: center;
     height: 100%;
     float:left;
+    color:red;
     
     margin: 20px 0px 0px 0px;
 }
